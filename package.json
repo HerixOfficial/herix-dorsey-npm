@@ -1,0 +1,17 @@
+{
+  "name": "herix-dorsey-npm",
+  "version": "1.0.0",
+  "description": "herix-dorsey-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Herix, DaRealDorseyBro",
+  "license": "ISC",
+  "keywords": [
+    "discord"
+  ],
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
